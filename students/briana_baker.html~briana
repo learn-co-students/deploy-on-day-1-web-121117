@@ -10,7 +10,7 @@
   <link rel='stylesheet' href="../css/style.css" type='text/css' media='all' />
   <style>
     .top-page-title {
-      background: url(../img/students/matt_background.jpg) no-repeat top center;
+      background: url(../img/bria-background.jpg) no-repeat top center;
     }
   </style>
   <link rel="apple-touch-icon" href="img/apple-touch-icon.png" />
@@ -74,7 +74,7 @@
       </div>
 
       <div class="link-subs">
-        <span><img class="swiss-knife-icon" src="../img/swiss-army-knife.png">Matt Welch</span>
+        <span><img class="swiss-knife-icon" src="../img/swiss-army-knife.png">Student Name</span>
         <ul class="smooth-scroller">
           <li><a href="#scroll-about">About</a></li>
           <li>|</li>
@@ -94,18 +94,16 @@
       <!-- Begin Splash Image -->
       <div class="top-page-title">
         <div>
-          <img src="../img/students/matt_profile.jpg" class="student_pic">
+          <img src="../img/bria-profile.jpeg" class="student_pic">
         </div>
       </div>
       <! -- End Splash Image -->
 
       <!-- Begin Title Content -->
       <div class="page-title">
-        <h4 class="ib_main_header">Matt Welch</h4>
+        <h4 class="ib_main_header">Briana Baker</h4>
         <div class="social-icons">
-          <a href="https://twitter.com/"><i class="icon-twitter ib-social-icons"></i></a>
-          <a href="http://www.linkedin.com/"><i class="icon-linkedin-sign ib-social-icons"></i></a>
-          <a href="https://github.com/dmw9044"><i class="icon-github ib-social-icons"></i></a>
+          <a href="https://github.com/brianabaker"><i class="icon-github ib-social-icons"></i></a>
           <a href="#"><i class="icon-rss ib-social-icons"></i></a>
         </div>
 
@@ -114,7 +112,7 @@
             <ul class="testimonials slides">
               <li id="text-7" class="widget_text" style="list-style: none; display: list-item;">
                 <div class="textwidget">
-                  <h3>All the dude ever wanted was his rug back</h3>
+                  <h3>"Keep doing"</h3>
                 </div>
               </li>
             </ul>
@@ -138,7 +136,10 @@
                 <div class="services-title"><h3>Biography</h3></div>
                 <div class="clear"></div>
                 <p>
-                    Hey everyone! I grew up in New Jersey and got my undergrad degree in Engish. I'm a big book/movie fiend, so always happy to nerd out about those things. I got into coding by way of music, by designing a few things in Max/MSP, a visual programming language for software instruments. I love making tunes on my computer, catching weird movies, and hanging out with my friends. Really looking forward to meeting you all and deepening my knowledge of code!
+                  I’ve spent the past 8 years backpacking 23 countries and working at restaurants to fund said travels.
+                  I’m sure I’ll travel again to some extent, but now I’m looking towards personal growth that requires staying put and NYC
+                  suits me well. I’m very excited to get back into code (I coded for fun in high school). I like spicy food, tech/house,
+                  and adventures. I'm also getting pretty good at baking desserts.
                 </p>
               </div>
             </div>
@@ -148,7 +149,8 @@
                 <div class="services-title"><h3>Education</h3></div>
                 <div class="clear"></div>
                 <ul>
-                  <li>Tufts University</li>
+                  <li>Oberlin College</li>
+                  <!-- <li>Other School</li> -->
                 </ul>
               </div>
             </div>
@@ -157,9 +159,9 @@
               <div class="services">
                 <div class="services-title"><h3>Work</h3></div>
                 <div class="clear"></div>
-                <h4>Boys and Girls Club</h4>
+                <h4>Planet Earth</h4>
                 <p>
-                  Secured funding for after school programs.
+                  Former vagabond/world traveler.
                 </p>
               </div>
             </div>
@@ -225,6 +227,8 @@
                     </div>
                     <div class="clear"></div>
                     <p>
+                      - <a href="http://blog.flatironschool.com/author/briana-baker/">Flatiron Blog</a><br>
+                      - <a href="#">Tumblr</a><br>
                     </p>
                   </div>
                 </div>
@@ -256,8 +260,8 @@
                     </div>
                     <div class="clear"></div>
                     <p>
-                      <a>Istanbul</a><br>
-                      <a>Madrid</a><br>
+                      <a>Melbourne</a><br>
+                      <a>Berlin</a><br>
                     </p>
                   </div>
                 </div>
@@ -268,9 +272,9 @@
                   </div>
                   <div class="clear"></div>
                   <p>
-                    - Favorite Website: <a href="http://tvtropes.org">TvTropes</a><br>
-                    - Favorite Comic: <a href="http://www.vertigocomics.com/characters/the-sandman">Sandman</a><br>
-                    - Favorite Radio Program: <a href="http://www.radiolab.org/series/podcasts/">Radiolab</a><br>
+                    - Favorite Website: <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi0j7KWrILYAhUFvxQKHck3DCoQFggpMAA&url=https%3A%2F%2Fwww.couchsurfing.com%2F&usg=AOvVaw2V_dA4vqn4NYV0sOXPzp7R">Couch Surfer</a><br>
+                    <!-- - Favorite Comic: <a href="#">Site 2</a><br> -->
+                    - Favorite Radio Program: <a href="www.radiolab.org">Radiolab</a><br>
                   </p>
                 </div>
               </div>
